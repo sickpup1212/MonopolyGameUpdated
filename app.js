@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {type: 'advance_to_nearest', name: 'Advance to the nearest Railroad', target: [5, 15, 25, 35], collectGo: true, image: 'chanceimages/advance_to_nearest_Rr.png'},
         {type: 'advance_to', name: 'Take a walk on the Boardwalk', target: 39, collectGo: false, image: 'chanceimages/advance_to_boardwalk.png'},
         {type: 'pay_other_players', name: 'You have been elected Chairman of the Board', amount: 50, image: 'chanceimages/elected_chairman.png'}, 
-        {type: 'collect_money', name: 'Your building loan matures. Collect $150', amount: 150, image: 'chanceimages/building_load_mature.png'},
+        {type: 'collect_money', name: 'Your building loan matures. Collect $150', amount: 150, image: 'chanceimages/building_loan_mature.png'},
         { type: 'advance_to', name: 'Take a trip to Reading Railroad', target: 5, collectGo: true, image: 'chanceimages/ride_to_rr.png'},
     ];
 
